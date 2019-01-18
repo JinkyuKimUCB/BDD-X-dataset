@@ -5,6 +5,12 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 
 <center><img src="/img/overview.png" width="90%" height="90%"></center>
 
+### How to Download.
+Download the BDD-X videos and annotations. See the folder *BDD-X-Dataset*, which contains:
+
+- BDD-X-Annotations_v1.csv: Contains our annotations for textual descriptions and explanations.
+- {train, val, test}.txt: Contains training, validation, testing splits
+
 ### Statistics.
 Over 77 hours of driving with time-stamped human annotations for action descriptions and justifications.
 <center><img src="/img/statistics.png" width="20%" height="20%"></center>
@@ -25,11 +31,7 @@ If you find this dataset useful, please cite this paper (and refer the data as B
 }
 ```
 
-### How we collect?
+### How we collect.
 Our explanation dataset is built on top of Berkeley Deep Drive dataset (<https://bdd-data.berkeley.edu/>) collected from dashboard cameras in human driven vehicles. Annotators view the video dataset, compose descriptions of the vehicle’s activity and explanations for the actions that the vehicle driver performed.
 
 <center><img src="/img/interface.png" width="70%" height="70%"></center>
-
-
-
-
