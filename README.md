@@ -43,3 +43,5 @@ Our annotation prompt is shown below. The annotation process is as follows. We p
 rules. The annotator has to describe what the driver is doing (especially when the behavior changes) and why, from a point of view of a driving instructor. Each described action has to be accompanied with a start and end time-stamp. The annotator may stop the video, forward and backward through it while searching for the activities that are interesting and justifiable.
 
 <center><img src="/img/interface.png" width="70%" height="70%"></center>
+
+Contact: <bdd.x.data@gmail.com>
