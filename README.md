@@ -17,11 +17,6 @@ Our dataset is composed of over 77 hours of driving within 6,970 videos. The vid
 <center><img src="/img/statistics.png" width="20%" height="20%"></center>
 
 
-<!--
-### Preview of the Annotations.
-[![Video Label](/img/bdd-x.png)](https://youtu.be/kbft0HEWdpk)
--->
-
 ### Citation.
 If you find this dataset useful, please cite this paper (and refer the data as Berkeley DeepDrive eXplanation or BDD-X dataset):
 ```
@@ -43,6 +38,9 @@ Our annotation prompt is shown below. The annotation process is as follows. We p
 rules. The annotator has to describe what the driver is doing (especially when the behavior changes) and why, from a point of view of a driving instructor. Each described action has to be accompanied with a start and end time-stamp. The annotator may stop the video, forward and backward through it while searching for the activities that are interesting and justifiable.
 
 <center><img src="/img/interface.png" width="70%" height="70%"></center>
+
+### Preview of the Annotations.
+[![Video Label](/img/bdd-x.png)](https://youtu.be/kbft0HEWdpk)
 
 #### Need help?
 Please contact us <bdd.x.data@gmail.com> with any questions/inquiries.
