@@ -6,14 +6,17 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 <center><img src="/img/overview.png" width="90%" height="90%"></center>
 
 ### How to Download.
-Download the BDD-X videos and annotations. See the folder *BDD-X-Dataset*, which contains:
+Download the BDD-X videos and annotations. <br />
+See the folder *BDD-X-Dataset*, which contains:
 
-- BDD-X-Annotations_v1.csv: Contains our annotations for textual descriptions and explanations.
-- {train, val, test}.txt: Contains training, validation, testing splits
+- BDD-X-Annotations_v1.csv: Our annotations for textual descriptions and explanations.
+- {train, val, test}.txt: Splits for Training, validation, testing set
 
 ### Statistics.
-Over 77 hours of driving with time-stamped human annotations for action descriptions and justifications.
+Our dataset is composed of over 77 hours of driving within 6,970 videos. The videos are taken in diverse driving conditions, e.g. day/night, highway/city/countryside, summer/winter etc. On average 40 seconds long, each video contains around 3-4 actions, e.g. speeding up, slowing down, turning right etc., all of which are annotated with a description and an explanation. Our dataset contains over 26K activities in over 8:4M frames. We introduce a training, a validation and a test set, containing 5,597, 717 and 656 videos, respectively.
+
 <center><img src="/img/statistics.png" width="20%" height="20%"></center>
+
 
 <!--
 ### Preview of the Annotations.
