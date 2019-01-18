@@ -3,11 +3,7 @@
 We focus on generating textual descriptions and explanations, such as the pair:<br />
 *“Vehicle slows down”* (description) and *“Because it is approaching an intersection and the light is red”* (explanation)
 
-<br />
-
 ![Overview](/img/overview.png)
-
-<br />
 
 ### Citation
 If you find this dataset useful, please cite this paper (and refer the data as Berkeley DeepDrive eXplanation or BDD-X dataset):
