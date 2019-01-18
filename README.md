@@ -6,6 +6,8 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 <center><img src="/img/overview.png" width="90%" height="90%"></center>
 
 ### Preview of the Annotations.
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 [![Video Label](/img/bdd-x.png)](https://youtu.be/kbft0HEWdpk)
 
 ### Statistics.
