@@ -6,7 +6,7 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 <center><img src="/img/overview.png" width="90%" height="90%"></center>
 
 ### How to Download.
-See the folder *BDD-X-Dataset*, which contains:
+Download our *BDD-X-Dataset* ([Download](https://drive.google.com/open?id=1Na-jxLK7VxOc6wcT5lnLQytfFi6rqhTF)), which contains:
 
 - BDD-X-Annotations_v1.csv: Our annotations for textual descriptions and explanations.
 - {train, val, test}.txt: Splits for Training, validation, testing set
