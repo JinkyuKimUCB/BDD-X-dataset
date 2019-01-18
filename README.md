@@ -12,7 +12,7 @@ Download our *BDD-X dataset* ([Download](https://drive.google.com/open?id=1Na-jx
 - {train, val, test}.txt: Splits for Training, validation, testing set
 
 ### How to Use.
-See [Textual Explanations for Self-driving Vehicles](https://github.com/JinkyuKimUCB/explainable-deep-driving.git)
+See [Textual Explanations for Self-driving Vehicles](https://github.com/JinkyuKimUCB/explainable-deep-driving.git).
 
 ### Statistics.
 Our dataset is composed of over 77 hours of driving within 6,970 videos. The videos are taken in diverse driving conditions, e.g. day/night, highway/city/countryside, summer/winter etc. On average 40 seconds long, each video contains around 3-4 actions, e.g. speeding up, slowing down, turning right etc., all of which are annotated with a description and an explanation. Our dataset contains over 26K activities in over 8.4M frames. We introduce a training, a validation and a test set, containing 5,597, 717 and 656 videos, respectively.
