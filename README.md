@@ -5,6 +5,9 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 
 <center><img src="/img/overview.png" width="90%" height="90%"></center>
 
+### Preview of the Annotations.
+[![Video Label](/img/bdd-x.png)](https://youtu.be/kbft0HEWdpk)
+
 ### Statistics.
 Over 77 hours of driving with time-stamped human annotations for action descriptions and justifications.
 <center><img src="/img/statistics.png" width="20%" height="20%"></center>
