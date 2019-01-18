@@ -9,8 +9,10 @@ We focus on generating textual descriptions and explanations, such as the pair:<
 Over 77 hours of driving with time-stamped human annotations for action descriptions and justifications.
 <center><img src="/img/statistics.png" width="20%" height="20%"></center>
 
+<!--
 ### Preview of the Annotations.
 [![Video Label](/img/bdd-x.png)](https://youtu.be/kbft0HEWdpk)
+-->
 
 ### Citation.
 If you find this dataset useful, please cite this paper (and refer the data as Berkeley DeepDrive eXplanation or BDD-X dataset):
